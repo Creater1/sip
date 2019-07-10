@@ -7,151 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f56c3337-754e-422a-95f4-35ca26dadcc7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C:\PcapAnalyzer\recentFile.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[113.105.246.54][80][192.168.1.40][1618].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[119.75.218.45][80][192.168.1.40][1560].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[192.168.1.40][1573][203.208.46.252][80].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[192.168.1.40][1574][203.208.46.185][80].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[192.168.1.40][1578][203.208.46.252][80].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[192.168.1.40][1579][203.208.46.227][80].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[192.168.1.40][1580][218.30.115.150][80].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[192.168.1.40][1593][222.186.189.245][80].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[192.168.1.40][1594][220.181.15.149][80].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[192.168.1.40][1599][222.186.189.245][80].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[192.168.1.40][1602][218.30.115.150][80].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[192.168.1.40][1603][222.186.189.245][80].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[192.168.1.40][1606][220.181.15.149][80].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[192.168.1.40][1608][218.30.115.150][80].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[192.168.1.40][1613][220.181.15.149][80].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[192.168.1.40][1616][218.30.115.150][80].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[192.168.1.40][1620][220.181.15.149][80].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[192.168.1.40][1622][218.30.115.150][80].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[192.168.1.40][1627][220.181.15.149][80].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[192.168.1.40][1628][218.30.115.150][80].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[192.168.1.40][1632][220.181.15.149][80].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[192.168.1.40][1633][218.30.115.150][80].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.175.132.20][80][192.168.1.40][1581].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.175.132.20][80][192.168.1.40][1598].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.175.132.20][80][192.168.1.40][1604].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.175.132.20][80][192.168.1.40][1605].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.175.132.20][80][192.168.1.40][1609].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.175.132.20][80][192.168.1.40][1610].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.175.132.20][80][192.168.1.40][1614].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.175.132.20][80][192.168.1.40][1615].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.175.132.20][80][192.168.1.40][1619].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.175.132.20][80][192.168.1.40][1621].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.175.132.20][80][192.168.1.40][1623].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.175.132.20][80][192.168.1.40][1624].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.175.132.20][80][192.168.1.40][1626].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.175.132.20][80][192.168.1.40][1630].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.175.132.20][80][192.168.1.40][1631].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.175.132.20][80][192.168.1.40][1634].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.175.132.20][80][192.168.1.40][1635].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.175.132.51][80][192.168.1.40][1521].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.175.132.51][80][192.168.1.40][1584].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.175.132.51][80][192.168.1.40][1595].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.175.132.51][80][192.168.1.40][1612].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.175.132.51][80][192.168.1.40][1617].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.175.132.51][80][192.168.1.40][1625].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.66.193.248][21][192.168.1.40][1582].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.66.193.248][21][192.168.1.40][1591].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.66.193.248][21][192.168.1.40][1596].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.66.193.248][21][192.168.1.40][1600].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.66.193.248][54063][192.168.1.40][1583].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.66.193.248][54076][192.168.1.40][1585].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.66.193.248][54080][192.168.1.40][1586].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.66.193.248][54087][192.168.1.40][1587].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.66.193.248][54095][192.168.1.40][1588].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.66.193.248][54097][192.168.1.40][1589].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.66.193.248][54100][192.168.1.40][1590].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.66.193.248][54111][192.168.1.40][1592].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.66.193.248][54140][192.168.1.40][1597].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\TCP[59.66.193.248][54152][192.168.1.40][1601].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[113.105.246.54][80][192.168.1.40][1618].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[119.75.218.45][80][192.168.1.40][1560].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[192.168.1.40][1573][203.208.46.252][80].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[192.168.1.40][1574][203.208.46.185][80].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[192.168.1.40][1578][203.208.46.252][80].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[192.168.1.40][1579][203.208.46.227][80].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[192.168.1.40][1580][218.30.115.150][80].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[192.168.1.40][1593][222.186.189.245][80].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[192.168.1.40][1594][220.181.15.149][80].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[192.168.1.40][1599][222.186.189.245][80].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[192.168.1.40][1602][218.30.115.150][80].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[192.168.1.40][1603][222.186.189.245][80].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[192.168.1.40][1606][220.181.15.149][80].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[192.168.1.40][1608][218.30.115.150][80].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[192.168.1.40][1613][220.181.15.149][80].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[192.168.1.40][1616][218.30.115.150][80].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[192.168.1.40][1620][220.181.15.149][80].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[192.168.1.40][1622][218.30.115.150][80].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[192.168.1.40][1627][220.181.15.149][80].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[192.168.1.40][1628][218.30.115.150][80].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[192.168.1.40][1632][220.181.15.149][80].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[192.168.1.40][1633][218.30.115.150][80].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.175.132.20][80][192.168.1.40][1581].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.175.132.20][80][192.168.1.40][1598].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.175.132.20][80][192.168.1.40][1604].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.175.132.20][80][192.168.1.40][1605].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.175.132.20][80][192.168.1.40][1609].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.175.132.20][80][192.168.1.40][1610].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.175.132.20][80][192.168.1.40][1614].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.175.132.20][80][192.168.1.40][1615].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.175.132.20][80][192.168.1.40][1619].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.175.132.20][80][192.168.1.40][1621].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.175.132.20][80][192.168.1.40][1623].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.175.132.20][80][192.168.1.40][1624].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.175.132.20][80][192.168.1.40][1626].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.175.132.20][80][192.168.1.40][1630].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.175.132.20][80][192.168.1.40][1631].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.175.132.20][80][192.168.1.40][1634].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.175.132.20][80][192.168.1.40][1635].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.175.132.51][80][192.168.1.40][1521].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.175.132.51][80][192.168.1.40][1584].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.175.132.51][80][192.168.1.40][1595].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.175.132.51][80][192.168.1.40][1612].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.175.132.51][80][192.168.1.40][1617].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.175.132.51][80][192.168.1.40][1625].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.66.193.248][21][192.168.1.40][1582].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.66.193.248][21][192.168.1.40][1591].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.66.193.248][21][192.168.1.40][1596].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.66.193.248][21][192.168.1.40][1600].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.66.193.248][54063][192.168.1.40][1583].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.66.193.248][54076][192.168.1.40][1585].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.66.193.248][54080][192.168.1.40][1586].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.66.193.248][54087][192.168.1.40][1587].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.66.193.248][54095][192.168.1.40][1588].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.66.193.248][54097][192.168.1.40][1589].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.66.193.248][54100][192.168.1.40][1590].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.66.193.248][54111][192.168.1.40][1592].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.66.193.248][54140][192.168.1.40][1597].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\TCP\���ݸ�����ȡ���\TCP[59.66.193.248][54152][192.168.1.40][1601].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\UDP\UDP.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\UDP\UDP[192.168.1.40][10040][220.181.126.82][80].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\UDP\UDP[192.168.1.40][137][192.168.1.107][137].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\UDP\UDP[192.168.1.40][138][192.168.1.255][138].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\UDP\UDP[192.168.1.40][1607][220.181.141.103][53].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\UDP\UDP[192.168.1.40][1611][220.181.141.103][53].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\UDP\UDP[192.168.1.40][1629][220.181.141.103][53].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\UDP\UDP[192.168.1.40][50561][202.103.24.68][53].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\UDP\UDP[192.168.1.40][51334][202.103.24.68][53].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\UDP\UDP[192.168.1.40][55962][202.103.24.68][53].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\UDP\UDP[192.168.1.40][64557][202.103.24.68][53].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\UDP\UDP[192.168.61.2][53][192.168.61.129][56811].pcap" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\UDP\���ݸ�����ȡ���\UDP[192.168.1.40][10040][220.181.126.82][80].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\UDP\���ݸ�����ȡ���\UDP[192.168.1.40][137][192.168.1.107][137].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\UDP\���ݸ�����ȡ���\UDP[192.168.1.40][138][192.168.1.255][138].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\UDP\���ݸ�����ȡ���\UDP[192.168.1.40][1607][220.181.141.103][53].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\UDP\���ݸ�����ȡ���\UDP[192.168.1.40][1611][220.181.141.103][53].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\UDP\���ݸ�����ȡ���\UDP[192.168.1.40][1629][220.181.141.103][53].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\UDP\���ݸ�����ȡ���\UDP[192.168.1.40][50561][202.103.24.68][53].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\UDP\���ݸ�����ȡ���\UDP[192.168.1.40][51334][202.103.24.68][53].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\UDP\���ݸ�����ȡ���\UDP[192.168.1.40][55962][202.103.24.68][53].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\UDP\���ݸ�����ȡ���\UDP[192.168.1.40][64557][202.103.24.68][53].txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/null\UDP\���ݸ�����ȡ���\UDP[192.168.61.2][53][192.168.61.129][56811].txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sip/bean/MessageHead.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sip/bean/ProtocolData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sip/bean/ProtocolData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/sip/service/PcapParser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/sip/service/PcapParser.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../warehouse" beforeDir="false" afterPath="$PROJECT_DIR$/../warehouse" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -180,11 +40,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/sip/bean/main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="165">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -197,15 +66,6 @@
               <folding>
                 <element signature="e#254#255#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -326,6 +186,11 @@
               <item name="sip" type="b2602c69:ProjectViewProjectNode" />
               <item name="sip" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="sip" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sip" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -337,7 +202,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562726491423" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562726698139" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
@@ -516,12 +381,12 @@
       <workItem from="1561040746522" duration="737000" />
       <workItem from="1561938905933" duration="61000" />
       <workItem from="1562554945288" duration="6212000" />
-      <workItem from="1562725642158" duration="686000" />
+      <workItem from="1562725642158" duration="853000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69807000" />
+    <option name="totallyTimeSpent" value="69974000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -537,7 +402,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31566265" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.31566265" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.44216868" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -891,16 +756,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/sip/bean/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/sip/bean/IPHeader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -960,10 +815,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sip/bean/main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        <state relative-caret-position="75">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
         </state>
       </provider>
     </entry>
